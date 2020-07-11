@@ -5,7 +5,7 @@ permalink: /about/
 show-in-menu: yes
 ---
 
-This is Madhurendra Roy, I am SAP ABAP/4, S4/HANA Devloper and currently looking for job change.  
+This is Madhurendra Roy, I am SAP ABAP/4, S4/HANA Devloper and currently looking for job change.I am currently working for Sun Global   
 
 Full version will have the following options.
 
