@@ -8,7 +8,7 @@
 # Site settings
 title: Madhurendra Roy
 description: > # this means to ignore newlines until "baseurl:"
- Ashwathama is a minimal website with an app like design. It also features card layouts for website elements.
+ This is my blog and it will resourfull information.
 baseurl: "/madhurendraroy.github.io" # the subpath of your site, e.g. /blog
 url: "madhurendraroy.github.io/"
 permalink: :title/
@@ -50,7 +50,7 @@ include: [_pages] # Includes files inside _pages directory [Do not remove this]
 author:
   name: Madhurendra
   image: madhu.jpg # The author image will be shown on the header. Place this image in /images/ folder.
-  about: Ashwathama is a sage who wrote Mahabharatha. He is the son of Drona. He fought on the Kaurava side against the Pandavas. He put up a pretty good fight with mighty Bhima.
+  about: I am SAP ABAP/4 HANA Devloper .
   twitter: webjeda  # https://twitter.com/ is automatically added
   facebook: webjeda # https://facebook.com/ is automatically added
   email: madhu.rendra@hotmail.com # mailto: is automatically added
