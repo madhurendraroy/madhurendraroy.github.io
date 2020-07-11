@@ -50,7 +50,7 @@ include: [_pages] # Includes files inside _pages directory [Do not remove this]
 author:
   name: Madhurendra
   image: madhu.jpg # The author image will be shown on the header. Place this image in /images/ folder.
-  about: I am SAP ABAP/4 HANA Devloper .
+  about: I am SAP ABAP/4 HANA Devloper and seeking job change and having sound experianced in SAP ABAP/4. ADOBE, SAP FORMS, ODATA.
   twitter: webjeda  # https://twitter.com/ is automatically added
   facebook: webjeda # https://facebook.com/ is automatically added
   email: madhu.rendra@hotmail.com # mailto: is automatically added
